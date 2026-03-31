@@ -4,7 +4,9 @@ still working on but it's my cozy world
   <details>
   <summary><b><font size="5"> 📂 ✨ About My Space</font></b></summary> 
   <br>
-    
+
+ <br><br>
+</details>
 <!--
 
 **Here are some ideas to get you started:**
