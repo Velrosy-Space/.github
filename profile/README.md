@@ -1,7 +1,10 @@
 ## Hi there 👋
 
 still working on but it's my cozy world  
-
+  <details>
+  <summary><b><font size="5"> 📂 ✨ About Me</font></b></summary> 
+  <br>
+    
 <!--
 
 **Here are some ideas to get you started:**
